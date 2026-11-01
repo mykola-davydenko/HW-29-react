@@ -1,0 +1,10 @@
+.profile {
+  margin-bottom: 20px;
+  padding: 10px;
+  border: 1px solid #db93df;
+  border-radius: 6px;
+}
+
+.profile p {
+  margin: 4px 0;
+}
